@@ -1,24 +1,18 @@
-# testprojct
+# Исходное задание
+**Разработать сервис генерации резюме по примерным аналогам:
+[первый пример](https://app.cvmaker.ru/#/lichnyye-dannyye/)
+[второй пример](https://resume.io/templates/professional)**
 
-## Project setup
-```
-npm install
-```
+Все должно быть сверстано с помощью классов бутстрап (не bootstrap-vue или bootstrap js).
+# Сервис должен состоять из:
+## 1 часть:
+Форма, которую заполняет пользователь. Количество полей в форме произвольное. (Обязательная часть)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 2 часть:
+Страница выбора шаблонов резюме. Подумай как хранить эти шаблоны, возможно их верстать, возможно воспользоваться pdf шаблонами и конвертировать их. (Обязательная часть) 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 3 часть:
+После выбора шаблона - постараться выдать этот документ в виде pdf пользователю. (Необязательная часть - будет супер если сможешь сделать)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Прогресс выполнения тестового задания:
+Прогресс можно посмотреть [здесь](https://github.com/To4ilko1/ResumeMaker/blob/master/TODO.md).
